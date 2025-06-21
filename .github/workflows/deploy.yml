@@ -31,5 +31,5 @@ jobs:
     - name: Deploy to Azure Web App
       uses: azure/webapps-deploy@v2
       with:
-        app-name: myApp1234
+        app-name: raul-qm-practica-2024
         package: .
