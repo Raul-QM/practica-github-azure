@@ -1,0 +1,18 @@
+{
+  "name": "github-actions-azure-app",
+  "version": "1.0.0",
+  "description": "Aplicación para práctica de CI/CD con GitHub Actions y Azure",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "author": "Tu Nombre",
+  "license": "ISC"
+}
